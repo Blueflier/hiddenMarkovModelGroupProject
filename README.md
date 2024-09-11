@@ -29,8 +29,8 @@
 
   1. You need to switch back to the main branch
      - ``` git checkout main ``` (it could be origin or master rather than main, I'll update this when I know)
-  2. You need to catch up to what is happening on the main branch
+  3. You need to catch up to what is happening on the main branch
      - ``` git pull ```
-   3. To start working on something new after doing this, do the following to create a new branch off of this updated main:
-     - ``` git branch creative_branch_name ```
-     - ``` git checkout creative_branch_name ```
+   4. To start working on something new after doing this, do the following to create a new branch off of this updated main:
+      - ``` git branch creative_branch_name ```
+      - ``` git checkout creative_branch_name ```
