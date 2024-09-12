@@ -34,3 +34,9 @@
    4. To start working on something new after doing this, do the following to create a new branch off of this updated main:
       - ``` git branch creative_branch_name ```
       - ``` git checkout creative_branch_name ```
+
+## Running the Project
+   1. Compile the program
+      - ``` g++ -o hiddenMarkovModelGroupProject demo.cpp models.cpp ``` (in the terminal)
+   2. Run the executable
+      - ``` ./hiddenMarkovModelGroupProject ``` (in the terminal)

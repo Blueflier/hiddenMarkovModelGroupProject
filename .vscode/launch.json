@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ellieannaross/Documents/Biola Senior Year/Biola Fall 2024/Programming for Data Science/HMM Project/hiddenMarkovModelGroupProject",
+      "program": "/Users/ellieannaross/Documents/Biola Senior Year/Biola Fall 2024/Programming for Data Science/HMM Project/hiddenMarkovModelGroupProject/build/Debug/outDebug"
+    }
+  ]
+}
